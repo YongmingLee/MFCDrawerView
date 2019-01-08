@@ -1,5 +1,7 @@
 # MFCDrawerView
-The drawer view implemented by VS2010
+## 一段MFC实现的类似Outlook的抽屉小样
 
-An imitation of the simple realization of OutLook bar, I hope to help you.
-You can copy the code and enrich it.
+>功能
+- VisualStudio 2010实现
+- MFC实现
+- 仅一种思路，可以实现为DLL或者COM方式，方便集成，降低耦合
